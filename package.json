@@ -1,6 +1,6 @@
 {
     "name": "com.nauroman.gitpackageupdater",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "Git Package Updater",
     "description": "Update all git packages in the project",
     "unity": "2021.3",
